@@ -1,0 +1,7 @@
+{
+  "name": "DentAI Smart System",
+  "description": "A comprehensive dental clinic management system integrated with advanced Gemini AI capabilities for image editing, medical research, location services, and intelligent patient assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
